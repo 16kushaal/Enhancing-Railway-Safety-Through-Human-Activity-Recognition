@@ -1,0 +1,6 @@
+[IEEE Xplore Conference Paper](https://ieeexplore.ieee.org/document/10816793)
+Railway safety remains a critical concern, particularly in densely populated regions where unauthorized human presence on tracks leads to frequent accidents and fatalities. India, home to one of the largest and busiest railway networks globally, 
+faces thousands of track-related casualties annually due to accidental trespassing. Conventional safety mechanisms such as manual surveillance, physical barriers, and CCTV monitoring have proven insufficient due to their high operational costs, limited coverage, and lack of real-time response capabilities.
+
+This project aims to develop an intelligent railway safety system leveraging state-of-the-art deep learning 
+techniques to detect and recognize human presence on railway tracks in real time, enabling proactive accident prevention. At the core of this system is YOLO (You Only Look Once), a cutting-edge object detection model renowned for its exceptional speed and accuracy. Unlike traditional object detection architectures such as R-CNN and Fast R-CNN, which involve multiple computationally expensive steps, YOLO employs a single-pass detection structure, making it highly suitable for real-time applications in dynamic environments. 
