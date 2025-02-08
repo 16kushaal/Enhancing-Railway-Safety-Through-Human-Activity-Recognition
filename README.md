@@ -1,4 +1,5 @@
 [IEEE Xplore Conference Paper](https://ieeexplore.ieee.org/document/10816793)
+
 Railway safety remains a critical concern, particularly in densely populated regions where unauthorized human presence on tracks leads to frequent accidents and fatalities. India, home to one of the largest and busiest railway networks globally, 
 faces thousands of track-related casualties annually due to accidental trespassing. Conventional safety mechanisms such as manual surveillance, physical barriers, and CCTV monitoring have proven insufficient due to their high operational costs, limited coverage, and lack of real-time response capabilities.
 
