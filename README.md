@@ -29,4 +29,4 @@ Added Model_Name, Model_ID, Model_API in main.js in line 31,
 ```bash
 .startWorker("ADD_YOUR_MODEL_ID", "MODEL_NUMBER", "MODEL_API")
 ```
-Utilise webcam for demonstartion purposed.
+Utilises webcam for demonstartion purposes.
