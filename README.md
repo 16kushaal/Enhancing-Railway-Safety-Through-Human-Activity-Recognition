@@ -23,3 +23,10 @@ With the power of artificial intelligence, a new system has been designed to tac
 
 ## Conclusion
 AI-powered systems are radically changing transportation safety. This innovative approach here clearly demonstrates what great potential these technologies hold to save lives. Combining YOLO-V8 with a well-annotated dataset, the system gives an efficient, scalable, and accurate solution to prevent railway accidents. If these technologies flourish further, they may seamlessly become a part of intelligent transportation networks all over the world, and thus make railways safer for all.
+
+## How to run this
+Added Model_Name, Model_ID, Model_API in main.js in line 31,
+```bash
+.startWorker("ADD_YOUR_MODEL_ID", "MODEL_NUMBER", "MODEL_API")
+```
+Utilise webcam for demonstartion purposed.
