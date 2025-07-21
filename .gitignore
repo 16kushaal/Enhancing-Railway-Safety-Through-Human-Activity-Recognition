@@ -1,5 +1,5 @@
-.env
-.venv
+.env/
+.venv/
 test.ipynb
 results.json
 apis.txt
