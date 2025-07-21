@@ -28,7 +28,7 @@ $(function () {
 
     const loadModelPromise = new Promise(function (resolve, reject) {
         inferEngine
-            .startWorker("ravi-train", "9", "rf_k0rcD7SjyIhkbVWkXBR1")
+            .startWorker("ADD_YOUR_MODEL_ID", "MODEL_NUMBER", "MODEL_API")
             .then(function (id) {
                 workerId = id;
                 resolve();
